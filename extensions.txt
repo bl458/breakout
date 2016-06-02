@@ -1,0 +1,5 @@
+I added sound effects whenever the ball hits the brick or the paddle. I also kept score.
+The score increased differently for different points of the game. The increment
+depends on how much speed of the ball, which increased everytime the ball hit the
+paddle, and which brick was hit. (The brick in the back were worth more
+points) I also added levels. As the level went up, the ball was faster.
